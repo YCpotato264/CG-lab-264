@@ -449,12 +449,12 @@ compare_with_official_forward(...)
 ---
 
 ## 图像展示
-![stage_a_template_weights](lbs_lab\outputs\stage_a_template_weights.png)
-![stage_b_shaped_joints](lbs_lab\outputs\stage_b_shaped_joints.png)
-![stage_c_pose_offsets](lbs_lab\outputs\stage_c_pose_offsets.png)
-![stage_d_lbs_result](lbs_lab\outputs\stage_d_lbs_result.png)
-![comparison_grid](lbs_lab\outputs\comparison_grid.png)
-![all_joint_weights](lbs_lab\outputs\all_joint_weights.png)
+![stage_a_template_weights](outputs\stage_a_template_weights.png)
+![stage_b_shaped_joints](outputs\stage_b_shaped_joints.png)
+![stage_c_pose_offsets](outputs\stage_c_pose_offsets.png)
+![stage_d_lbs_result](outputs\stage_d_lbs_result.png)
+![comparison_grid](outputs\comparison_grid.png)
+![all_joint_weights](outputs\all_joint_weights.png)
 
 ---
 
